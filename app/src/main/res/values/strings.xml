@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">9.1Canciones</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="insert_title">Insert Title</string>
+    <string name="insert_artist">Insert Artist</string>
+    <string name="insert_album">Insert Album</string>
+    <string name="insert_year">Insert Year</string>
+    <string name="button_guardar">Guardar</string>
+    <string name="cleanedData">Clearing Data...</string>
+    <string name="fillAllFields">Fill All The Fields First</string>
+    <string name="delete_button">Delete</string>
+    <string name="addSong">Añadir Cancion</string>
+    <string name="cancion">Canciones</string>
+</resources>
